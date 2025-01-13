@@ -7,7 +7,7 @@ Installation
 ------------
 
 ```php
-composer require kamleshDefsys/mime-types
+composer require kamlesh-defsys/mime-types
 ```
 
 Usage
