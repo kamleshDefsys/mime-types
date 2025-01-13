@@ -1,18 +1,18 @@
 {
-    "name": "magyarjeti/mime-types",
+    "name": "kamleshDefsys/mime-types",
     "description": "A converter between mime types and file extensions.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Kovago Zoltan",
-            "email": "kovagoz@444.hu"
+            "name": "Kamlesh Bar",
+            "email": "kamlesh@defsys.com.au"
         }
     ],
     "require": {},
     "autoload": {
         "psr-4": {
-            "Magyarjeti\\MimeTypes\\": "src/"
+            "kamleshDefsys\\MimeTypes\\": "src/"
         }
     },
     "require-dev": {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Magyarjeti\MimeTypes;
+namespace kamleshDefsys\MimeTypes;
 
 use InvalidArgumentException;
 

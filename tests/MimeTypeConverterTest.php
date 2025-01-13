@@ -1,6 +1,6 @@
 <?php
 
-use Magyarjeti\MimeTypes\MimeTypeConverter;
+use kamleshDefsys\MimeTypes\MimeTypeConverter;
 
 class MimeTypeConverterTest extends PHPUnit_Framework_TestCase
 {

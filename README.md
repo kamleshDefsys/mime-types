@@ -7,7 +7,7 @@ Installation
 ------------
 
 ```php
-composer require magyarjeti/mime-types
+composer require kamleshDefsys/mime-types
 ```
 
 Usage
@@ -16,7 +16,7 @@ Usage
 Create a new mime type converter instance:
 
 ```php
-use Magyarjeti\MimeTypes\MimeTypeConverter;
+use kamleshDefsys\MimeTypes\MimeTypeConverter;
 
 $converter = new MimeTypeConverter;
 ```
